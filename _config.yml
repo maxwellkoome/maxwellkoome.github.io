@@ -117,3 +117,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+feed:
+  path: feed.xml
+
+plugins:
+  - jekyll-feed
