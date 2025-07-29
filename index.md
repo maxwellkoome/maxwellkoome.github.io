@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Welcome"
-excerpt: "Your digital portfolio"
+excerpt: "A curated showcase of my skills, experience, and projects in cybersecurity and technology, built for employers, collaborators, and lifelong learners."
 permalink: /
 author_profile: true
 header:
