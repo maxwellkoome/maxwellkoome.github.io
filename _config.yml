@@ -73,6 +73,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/max_koome?igsh=MW5tcWR3dDdmbjZvbw=="
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:koomemaxwell38@gmail.com"
 
 footer:
   links:
