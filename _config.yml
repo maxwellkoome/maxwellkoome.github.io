@@ -16,7 +16,7 @@
 title: Maxwell Koome Mwereri
 email: koomemaxwell38@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Certified Ethical Hacker | Computer Science Graduate | Cybersecurity Consultant & Enthusiast | Developer | Lifelong Learner
+  Cybersecurity Consultant & Enthusiast | Developer | Lifelong Learner
 twitter_username: Drummer_Lord
 github_username: maxwellkoome
 minimal_mistakes_skin: neon
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Maxwell Koome"
   avatar : "/assets/images/MaxwellProfilePic.jpeg"
-  bio    : "Certified Ethical Hacker | Computer Science Graduate | Cybersecurity Consultant & Enthusiast | Developer | Lifelong Learner"
+  bio    : "Cybersecurity Consultant & Enthusiast | Developer | Lifelong Learner"
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
