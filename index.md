@@ -5,3 +5,7 @@
 layout: splash
 author_profile: true
 ---
+
+# CURRICULUM VITAE - MAXWELL KOOME
+
+## EDUCATION
