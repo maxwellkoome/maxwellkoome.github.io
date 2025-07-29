@@ -116,7 +116,11 @@ tag_archive:
   type: liquid
   path: /tags/
 
-main:
+tag_archive:
+  type: liquid
+  path: /tags/
+
+navigation:
   - title: "Home"
     url: /
   - title: "Resume"
