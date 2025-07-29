@@ -16,7 +16,7 @@
 title: Maxwell Koome Mwereri
 email: koomemaxwell38@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Certified Ethical Hacker | Computer Science Graduate | Cybersecurity Consultant
+  Certified Ethical Hacker | Computer Science Graduate | Cybersecurity Consultant & Enthusiast | Developer | Lifelong Learner
 twitter_username: Drummer_Lord
 github_username: maxwellkoome
 minimal_mistakes_skin: neon
@@ -58,32 +58,33 @@ plugins:
 author:
   name   : "Maxwell Koome"
   avatar : "/assets/images/MaxwellProfilePic.jpeg"
-  bio    : "I am a certified ethical hacker and a cybersecurity consultant at Cyber Shujaa Company."
+  bio    : "Certified Ethical Hacker | Computer Science Graduate | Cybersecurity Consultant & Enthusiast | Developer | Lifelong Learner"
+  location: "Nairobi, Kenya"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/koomemaxwell"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Drummer_lord?t=TL7tNUd_5L7Jr4TenE359Q&s=09"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/maxwellkoome"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/max_koome?igsh=MW5tcWR3dDdmbjZvbw=="
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Drummer_lord?t=TL7tNUd_5L7Jr4TenE359Q&s=09"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/maxwellkoome"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/max_koome?igsh=MW5tcWR3dDdmbjZvbw=="
 
 defaults:
   # _posts
