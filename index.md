@@ -11,6 +11,6 @@ header:
 ---
 Hi 👋 I’m **Maxwell Koome**.
 
-🚀 *Cybersecurity Enthusiast | Developer | Lifelong Learner*
+🚀 *Cybersecurity Enthusiast, Web Developer, CEH in Progress, IT Consultant & Networking Enthusiast.*
 
-Welcome to my professional portfolio where I showcase my background, projects, and challenges I’ve tackled. 😊
+Welcome to my professional portfolio, a space dedicated to showcasing my journey in cybersecurity. Here, you'll find an overview of my background, hands-on projects, and the security challenges I’ve tackled across various domains. From threat analysis to vulnerability assessment and defensive strategies, this portfolio reflects my commitment to safeguarding digital environments and continuously advancing my skills. Whether you're a recruiter, collaborator, or fellow security enthusiast, feel free to explore and connect. 😊
