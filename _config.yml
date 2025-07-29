@@ -16,7 +16,7 @@
 title: Maxwell Koome Mwereri
 email: koomemaxwell38@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cybersecurity Enthusiast | Web Developer
+  Cybersecurity Enthusiast, Web Developer, CEH in Progress, IT Consultant, Networking Enthusiast
 twitter_username: Drummer_Lord
 github_username: maxwellkoome
 minimal_mistakes_skin: neon
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Maxwell Koome"
   avatar : "/assets/images/MaxwellPic.jpg"
-  bio    : "Cybersecurity Enthusiast | Web Developer"
+  bio    : "Cybersecurity Enthusiast, Web Developer, CEH in Progress, IT Consultant, Networking Enthusiast"
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
