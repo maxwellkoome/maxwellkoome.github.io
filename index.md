@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome"
-excerpt: "A curated showcase of my skills, experience, and projects in cybersecurity and technology, built for employers, collaborators, and lifelong learners."
+excerpt: "A professional, curated showcase of my experience, skills, and projects in technology and cybersecurity, tailored for employers, collaborators, and lifelong learners."
 permalink: /
 author_profile: true
 header:
@@ -9,8 +9,8 @@ header:
   overlay_filter: "0.5"
   caption: "Photo credit: Unsplash"
 ---
-Hi 👋 I’m **Maxwell Koome**.
+Hi There!👋 I’m **Maxwell Koome**.
 
 🚀 *Cybersecurity Enthusiast, Web Developer, CEH in Progress, IT Consultant & Networking Enthusiast.*
 
-Welcome to my professional portfolio, a space dedicated to showcasing my journey in cybersecurity. Here, you'll find an overview of my background, hands-on projects, and the security challenges I’ve tackled across various domains. From threat analysis to vulnerability assessment and defensive strategies, this portfolio reflects my commitment to safeguarding digital environments and continuously advancing my skills. Whether you're a recruiter, collaborator, or fellow security enthusiast, feel free to explore and connect. 😊
+Welcome to my professional portfolio, where I showcase my career in cybersecurity. On this website, you have an overview of my experience, real-world projects, and the security challenges I've solved in various industries. Threat analysis, vulnerability testing, and defense mechanisms – this portfolio showcases my commitment to securing digital spaces and my continuous quest for enhanced proficiency. Feel free to browse and contact me, whether you're a recruiter, future collaborator, or fellow security enthusiast. 😊
