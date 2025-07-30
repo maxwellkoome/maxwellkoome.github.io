@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: Unsplash"
 ---
 
-Hi There!👋 I’m **Maxwell Koome**.
+Hi There!👋 I’m **Maxwell Koome**. 😊
 
 🚀 *Cybersecurity Enthusiast, Web Developer, CEH in Progress, IT Consultant & Networking Enthusiast.*
 
